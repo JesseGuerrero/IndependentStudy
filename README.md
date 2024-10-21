@@ -11,6 +11,6 @@ Fall 2024 at University of Texas - San Antonio.
 
 https://github.com/revantteotia/clip-training
 
-**Diffussion:**
+**Diffusion:**
 
 **Berkley series:**
