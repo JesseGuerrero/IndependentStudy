@@ -9,7 +9,7 @@ Fall 2024 at University of Texas - San Antonio.
 | ~~Attention is all you need~~                                                                      |~~[Seq2Seq English to Spanish](http://bit.ly/3AaCknS)~~|
 | ~~Original CLIP Paper~~                                                                            |~~Empty weights CLIP training on COCO~~([Results](https://bit.ly/4hhcLC1))([Original GitHub](https://bit.ly/3BW4OSP))     |
 | ~~Segment Anything 1~~                                                                             |                          |
-| ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Ended up being simple vision-text instruction set) |                          |
+| ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Personal interest, ended up being simple vision-text instruction set) |                          |
 | Original DDPM, diffusion paper                                                                     |                          |
 | Latent Diffusion paper                                                                             |[Train to generate from my favorite show(In progress)](https://bit.ly/4dZqJWi)|
 | NeRF Paper                                                                                         |                          |
