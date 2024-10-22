@@ -13,6 +13,7 @@ Fall 2024 at University of Texas - San Antonio.
 6. Latent Diffusion paper
 7. NeRF Paper
 8. Physics Informed ML
+9. Segment Anything 2
 
 **Transformers:**
 
