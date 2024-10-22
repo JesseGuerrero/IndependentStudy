@@ -21,8 +21,6 @@ Fall 2024 at University of Texas - San Antonio.
 
 **Contrastive Learning:**
 
-https://github.com/revantteotia/clip-training
-
 **Diffusion:**
 
 **Berkley series:**
