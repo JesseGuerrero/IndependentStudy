@@ -11,7 +11,7 @@ Fall 2024 at University of Texas - San Antonio.
 | ~~Segment Anything 1~~                                                                             |                          |
 | ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Personal interest, ended up being simple vision-text instruction set) |                          |
 | Original DDPM, diffusion paper                                                                     |                          |
-| Latent Diffusion paper                                                                             |[Train to generate from my favorite show(In progress)](https://bit.ly/4dZqJWi)|
+| Latent Diffusion paper                                                                             |[Train to generate from my favorite show](https://bit.ly/4dZqJWi)(In progress)|
 | NeRF Paper                                                                                         |                          |
 | Physics Informed ML                                                                                |                          |
 | Segment Anything 2                                                                                 |                          |
