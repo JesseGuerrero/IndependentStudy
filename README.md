@@ -6,12 +6,12 @@ Fall 2024 at University of Texas - San Antonio.
 ---
 | **Reading Plan**                                                                                  | **Implementation Plan** |
 |---------------------------------------------------------------------------------------------------|--------------------------|
-| ~~Attention is all you need~~                                                                      |                          |
-| ~~Original CLIP Paper~~                                                                            |                          |
+| ~~Attention is all you need~~                                                                      |Seq2Seq English to Spanish|
+| ~~Original CLIP Paper~~                                                                            |Clip Training on COCO     |
 | ~~Segment Anything 1~~                                                                             |                          |
 | ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Ended up being simple vision-text instruction set) |                          |
 | Original DDPM, diffusion paper                                                                     |                          |
-| Latent Diffusion paper                                                                             |                          |
+| Latent Diffusion paper                                                                             |Train to generate from my favorite show|
 | NeRF Paper                                                                                         |                          |
 | Physics Informed ML                                                                                |                          |
 | Segment Anything 2                                                                                 |                          |
