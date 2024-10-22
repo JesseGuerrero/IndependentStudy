@@ -4,7 +4,7 @@ implement computer vision tasks for Independent Study
 Fall 2024 at University of Texas - San Antonio.
 
 ---
-| **Reading Plan**                                                                                  | **Implementation Plan** |
+| **Reading Plan (Papers referenced from Berkley Series)**                                                                                  | **Implementation Plan** |
 |---------------------------------------------------------------------------------------------------|--------------------------|
 | ~~Attention is all you need~~                                                                      |~~[Seq2Seq English to Spanish](http://bit.ly/3AaCknS)~~|
 | ~~Original CLIP Paper~~                                                                            |~~Empty weights CLIP training on COCO~~([Results](https://bit.ly/4hhcLC1))([Original GitHub](https://bit.ly/3BW4OSP))     |
