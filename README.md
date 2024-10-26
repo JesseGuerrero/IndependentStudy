@@ -10,12 +10,15 @@ Fall 2024 at University of Texas - San Antonio.
 | ~~Original CLIP Paper~~                                                                                                          |~~Empty weights CLIP training on COCO~~([Results](https://bit.ly/4hhcLC1))([Original GitHub](https://bit.ly/3BW4OSP))     |
 | ~~Segment Anything 1~~                                                                                                           |                          |
 | ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Personal interest, ended up being simple vision-text instruction set) |                          |
+| U-Net Paper                                                                                                                       |(In progress)            |
 | ~~Original DDPM, diffusion paper~~                                                                                               |                          |
-| Latent Diffusion paper                                                                                                           |[Train to generate from my favorite show](https://bit.ly/4dZqJWi)(In progress)|
+| Latent Diffusion paper                                                                                                           |[Train to generate from my favorite show](https://bit.ly/4dZqJWi)(Paused for U-Net)|
 | NeRF Paper                                                                                                                       |                          |
 | Physics Informed ML                                                                                                              |                          |
 | Segment Anything 2                                                                                                               |                          |
 
+**ML Notation**
+[Anki Deck](https://ankiweb.net/shared/info/1677308617?cb=1729982872644)
 
 **Transformers:**
 
