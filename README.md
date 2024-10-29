@@ -10,7 +10,7 @@ Fall 2024 at University of Texas - San Antonio.
 | ~~Original CLIP Paper~~                                                                                                          |~~Empty weights CLIP training on COCO~~([Results](https://bit.ly/4hhcLC1))([Original GitHub](https://bit.ly/3BW4OSP))     |
 | ~~Segment Anything 1~~                                                                                                           |                          |
 | ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Personal interest, ended up being simple vision-text instruction set) |                          |
-| ~~U-Net Paper~~                                                                                                                       |Scratch training, car dataset([github](https://github.com/JesseGuerrero/Pytorch-UNet))            |
+| ~~U-Net Paper~~                                                                                                                       |~~Scratch training, car dataset~~([github](https://github.com/JesseGuerrero/Pytorch-UNet))            |
 | ~~Original DDPM, diffusion paper~~                                                                                               |                          |
 | Latent Diffusion paper                                                                                                           |[Train to generate from my favorite show](https://bit.ly/4dZqJWi)(Paused for U-Net)|
 | NeRF Paper                                                                                                                       |                          |
