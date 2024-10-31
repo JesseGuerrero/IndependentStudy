@@ -12,7 +12,7 @@ Fall 2024 at University of Texas - San Antonio.
 | ~~[Climate LLM paper](https://arxiv.org/abs/2409.19058)~~ (Personal interest, ended up being simple vision-text instruction set) |                          |
 | ~~U-Net Paper~~                                                                                                                       |~~Scratch training, car dataset~~([github](https://github.com/JesseGuerrero/Pytorch-UNet))            |
 | Original DDPM, diffusion paper                                                                                              | Training PyTorch Implementation on One Piece ([github](https://github.com/JesseGuerrero/denoising-diffusion-pytorch)) |
-| Latent Diffusion paper                                                                                                           |[Train to generate from my favorite show](https://bit.ly/4dZqJWi)(Paused for U-Net)|
+| Latent Diffusion paper                                                                                                           |[Train to generate from my favorite show](https://bit.ly/4dZqJWi)(Paused for original DDPM above)|
 | NeRF Paper                                                                                                                       |                          |
 | Physics Informed ML                                                                                                              |                          |
 | Segment Anything 2                                                                                                               |                          |
